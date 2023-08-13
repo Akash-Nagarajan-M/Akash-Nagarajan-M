@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **akashnagarajanm@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.overleaf.com/read/ghjqjzxqgvcr)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ppmaPJAcWDbPN5uArmPf0rehU_2imRFP/view)
 
 <img align="center" src="https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-white-man-computer-desk-coding-isolated-modern-cartoon-style-illustration-graphic-design-animation_151150-5964.jpg?w=2000" alt="prgrm-animation" height="377" width="538" />
 
